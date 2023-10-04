@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\assets\\shared",
+    "\\src\\assets\\shared\\desktop",
+    "\\src\\components",
+    "\\src\\components\\CategoryPage",
+    "\\src\\components\\Homepage"
+  ],
+  "SelectedNode": "\\src\\components\\CategoryPage\\Product.vue",
+  "PreviewInSolutionExplorer": false
+}

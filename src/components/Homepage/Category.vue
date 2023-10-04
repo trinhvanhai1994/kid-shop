@@ -1,21 +1,28 @@
 <template>
   <div class="category">
     <img
-      v-if="product === 'headphones'"
+      v-if="product === 'dress'"
       src="../../assets/shared/desktop/image-category-thumbnail-dress.png"
       alt="headphones"
       class="category__thumbnail"
       id="headphones"
     />
     <img
-      v-if="product === 'speakers'"
+      v-if="product === 'outfit'"
       src="../../assets/shared/desktop/image-category-thumbnail-outfit.png"
       alt="speakers"
       class="category__thumbnail"
       id="speakers"
     />
     <img
-      v-if="product === 'earphones'"
+      v-if="product === 'pijama'"
+      src="../../assets/shared/desktop/image-category-thumbnail-pijama.png"
+      alt="earphones"
+      class="category__thumbnail"
+      id="earphones"
+    />
+    <img
+      v-if="product === 'other'"
       src="../../assets/shared/desktop/image-category-thumbnail-pijama.png"
       alt="earphones"
       class="category__thumbnail"
@@ -40,7 +47,7 @@
 export default {
   name: "Category",
   props: {
-    product: String,
+    product: Number,
   },
   methods: {
     scrollToTop() {

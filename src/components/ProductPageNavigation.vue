@@ -1,8 +1,8 @@
 <template>
   <section class="categories">
-    <Category product="headphones" />
-    <Category product="speakers" />
-    <Category product="earphones" />
+    <Category product="dress" />
+    <Category product="outfit" />
+    <Category product="pijama" />
   </section>
   <AboutSection />
 </template>

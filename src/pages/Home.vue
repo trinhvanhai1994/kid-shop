@@ -2,9 +2,10 @@
   <Header @toggle-menu-show="$emit('toggle-menu-show', $event)" />
   <main>
     <section class="categories">
-      <Category product="headphones" />
-      <Category product="speakers" />
-      <Category product="earphones" />
+      <Category product="dress" />
+      <Category product="outfit" />
+      <Category product="pijama" />
+      <Category product="other" />
     </section>
     <ZX9Preview />
     <ZX7Preview />

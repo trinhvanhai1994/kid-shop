@@ -74,12 +74,12 @@ export default {
       height: 23.7rem;
     }
     @media (min-width: 1205px) {
-      background: url("../../assets/home/desktop/image-speaker-zx9.png");
+      background: url("../../assets/home/desktop/image-dress.png");
       background-size: contain;
       background-repeat: no-repeat;
       background-position: center;
-      width: 41.023rem;
-      height: 49.3rem;
+      width: 50.023rem;
+      height: 50.3rem;
       align-self: flex-end;
       position: relative;
       top: 6.7rem;
