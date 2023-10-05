@@ -44,7 +44,7 @@ export default {
   }
 
   @media (min-width: 1205px) {
-    margin-top: 16.8rem;
+    // margin-top: 16.8rem;
     background-size: cover;
     background-position-x: -13rem;
     flex-direction: row;
@@ -78,11 +78,13 @@ export default {
       background-size: contain;
       background-repeat: no-repeat;
       background-position: center;
-      width: 50.023rem;
+      width: 47.623rem;
       height: 50.3rem;
       align-self: flex-end;
       position: relative;
       top: 6.7rem;
+      border-top-right-radius: 50%;
+      border-bottom-left-radius: 50%;
     }
   }
 

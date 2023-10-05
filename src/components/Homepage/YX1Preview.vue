@@ -47,7 +47,7 @@ export default { name: "YX1Preview" };
     }
 
     @media (min-width: 1205px) {
-      background: url("../../assets/home/desktop/image-earphones-yx1.jpg");
+      background: url("../../assets/home/desktop/image-pijama.jpg");
       background-size: cover;
       background-position: center;
     }

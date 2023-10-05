@@ -33,9 +33,10 @@ export default { name: "ZX7Preview" };
     margin: 4.8rem auto;
     width: 111rem;
     padding: 10.1rem 0 10.1rem 9.5rem;
-    background: url("../../assets/home/desktop/image-speaker-zx7.jpg");
+    background: url("../../assets/home/desktop/image-outfit.jpg");
     background-size: cover;
     background-position: center;
+    height: 80rem;
   }
 
   &__header {

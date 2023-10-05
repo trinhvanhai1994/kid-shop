@@ -1,16 +1,16 @@
 <template>
   <section class="hero">
-    <!-- <p class="hero__product-tag">New product</p>
+    <p class="hero__product-tag">New product</p>
     <h1 class="hero__product-name">XX99 Mark II HeadphoneS</h1>
     <p class="hero__product-description">
       Experience natural, lifelike audio and exceptional build quality made for
-    </p> -->
-    <!-- <router-link
+    </p>
+    <router-link
       class="hero__product-link"
       to="/product/xx99-mark-two-headphones"
     >
       <button class="hero__product-link__btn default-btn">See product</button>
-    </router-link> -->
+    </router-link>
   </section>
 </template>
 

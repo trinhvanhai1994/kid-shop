@@ -10,7 +10,7 @@
       class="navbar__homeLink"
     >
       <img
-        src="../assets/shared/desktop/logo.jpg"
+        src="../assets/shared/desktop/logo.svg"
         alt="audiophile logo"
         class="navbar__homeLink__logo"
     /></router-link>

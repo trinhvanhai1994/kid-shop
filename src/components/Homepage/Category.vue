@@ -23,7 +23,7 @@
     />
     <img
       v-if="product === 'other'"
-      src="../../assets/shared/desktop/image-category-thumbnail-pijama.png"
+      src="../../assets/shared/desktop/image-category-thumbnail-other.png"
       alt="earphones"
       class="category__thumbnail"
       id="earphones"

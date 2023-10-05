@@ -62,7 +62,7 @@ export default {
     @media (min-width: 1205px) {
       width: 54rem;
       height: 58.8rem;
-      background: url("../../assets/shared/desktop/image-best-gear.jpg");
+      background: url("../../assets/shared/desktop/image-dragun.jpg");
       background-size: cover;
       background-position: center;
     }
